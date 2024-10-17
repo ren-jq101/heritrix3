@@ -107,7 +107,7 @@ http://maven.apache.org/guides/mini/guide-m1-m2.html
             <releases>
                 <enabled>true</enabled>
             </releases>
-            <snapshots />
+            <snapshots/>
         </repository>
 	</repositories>
 
@@ -295,13 +295,13 @@ http://maven.apache.org/guides/mini/guide-m1-m2.html
 		</contributor>
 		<contributor>
 			<name>Howard Lee Gayle</name>
-			<email />
-			<organization />
+			<email/>
+			<organization/>
 		</contributor>
 		<contributor>
 			<name>Ansi Zhousp</name>
 			<email>zhousp at gmail dot com</email>
-			<organization />
+			<organization/>
 		</contributor>
 		<contributor>
 			<name>Dave Skinner</name>
@@ -316,7 +316,7 @@ http://maven.apache.org/guides/mini/guide-m1-m2.html
 		<contributor>
 			<name>Mike Schwartz</name>
 			<email>schwartz at CodeOnTheRoad dot com</email>
-			<organization />
+			<organization/>
 		</contributor>
 		<contributor>
 			<name>Rob Eger</name>
@@ -331,7 +331,7 @@ http://maven.apache.org/guides/mini/guide-m1-m2.html
 		<contributor>
 			<name>Nicolas Baly</name>
 			<email>nicolas dot baly at epfl dot ch</email>
-			<organization />
+			<organization/>
 		</contributor>
 	</contributors>
 
@@ -397,7 +397,7 @@ http://maven.apache.org/guides/mini/guide-m1-m2.html
 		<build.timestamp>${maven.build.timestamp}</build.timestamp>
 		<doclint>none</doclint>
 		<additionalparam>-Xdoclint:none</additionalparam>
-		<jetty.version>9.4.37.v20210219</jetty.version>
+		<jetty.version>12.0.12</jetty.version>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.release>8</maven.compiler.release>
